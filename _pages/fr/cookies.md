@@ -1,55 +1,54 @@
 ---
 layout: page
-title: Cookies and privacy
+title: Cookies et confidentialité
 language: fr
 permalink: /fr/about/cookies-and-privacy/
 ---
-The following is a description of what data is collected when you use this website and what it is used for.
+Voici une description des données collectées lorsque vous utilisez ce site web et de leur utilisation.
 
-## User information
-This website uses cookies and JavaScript tracking code to gather anonymous information about visitors' usage patterns, in order to improve the navigation of the site, the presentation of its content and the quality of its services.
+## Informations sur les utilisateurs
+Ce site utilise des cookies et du code de suivi JavaScript pour recueillir des informations anonymes sur les habitudes des visiteurs, afin d'améliorer la navigation, la présentation du contenu et la qualité des services.
 
-The information collected does not include personal details such as your name, age, telephone number, postal address or email address, nor does it allow personal identification of a user.
+Les informations collectées n'incluent pas de détails personnels tels que votre nom, âge, numéro de téléphone, adresse postale ou email, et ne permettent pas l'identification personnelle des utilisateurs.
 
 ## Cookies
-When we provide services, we want to make them easy, useful and reliable.
+Lorsque nous fournissons des services, nous souhaitons qu'ils soient simples, utiles et fiables.
 
-Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone.
+Lorsqu'un service est accessible sur internet, cela implique parfois de placer de petites quantités d'informations sur votre appareil, comme un ordinateur ou un téléphone portable.
 
-These include small files known as cookies. They cannot be used to identify you personally.
+Ces informations incluent de petits fichiers appelés cookies. Ils ne peuvent pas être utilisés pour vous identifier personnellement.
 
-These pieces of information are used to improve services for you through, for example:
+Ces fichiers sont utilisés pour améliorer les services, notamment :
 
-- enabling a service to recognise your device so you don't have to give the same information several times during one task
-- recognising that you may already have given a username and password so you don't need to do it for every web page requested
-- measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast
+- Permettre à un service de reconnaître votre appareil afin que vous n'ayez pas à fournir les mêmes informations plusieurs fois pour une même tâche.
+- Reconnaître que vous avez déjà saisi un nom d'utilisateur et un mot de passe pour éviter de devoir le faire pour chaque page demandée.
+- Mesurer combien de personnes utilisent les services, afin de les rendre plus faciles d'utilisation et de s'assurer qu'ils disposent de la capacité nécessaire pour rester rapides.
 
-You can manage these small files yourself and learn more about them through [internet browser cookies – what they are and how to manage them](https://www.aboutcookies.org/).
+Vous pouvez gérer ces petits fichiers vous-même et en apprendre davantage sur eux via [Ce qu’il faut savoir sur les cookies Internet](https://www.pensezcybersecurite.gc.ca/fr/blogues/faut-savoir-cookies-internet)
 
-## Our use of cookies
-Important information about this list of cookies:
+## Notre utilisation des cookies
+Informations importantes sur cette liste de cookies :
 
-This list may not always be complete. It will be regularly updated as further information is gathered from other companies and organisations that we work with.
+Cette liste peut ne pas être exhaustive. Elle sera régulièrement mise à jour au fur et à mesure que des informations supplémentaires seront recueillies auprès des entreprises et organisations avec lesquelles nous travaillons.
 
-Cookies for retaining active state of accessibility services:
+Cookies pour conserver l'état actif des services d'accessibilité :
 
 - contrast
 
-Cookies for measuring use of services:
-
+Cookies pour mesurer l'utilisation des services :
 - _ga
 - _gid
 - _gat
+- 
+En comprenant comment les utilisateurs naviguent sur notre site, nous pouvons améliorer les informations fournies. Nous collectons ces données via Google Analytics.
 
-By understanding how people use our website, we can improve the information provided. We gather this data using Google Analytics.
+## Liens externes
+Ce site peut contenir des liens vers d'autres sites.
 
-## External links
-This site may contain links to other sites.
+L'ONS n'est pas responsable des pratiques de confidentialité ni du contenu de ces sites web.
 
-ONS is not responsible for the privacy practices or the content of such websites.
+## Sécurité
+Ce site web dispose de mesures de sécurité pour protéger les informations sous notre contrôle contre la perte, l'utilisation abusive et la modification.
 
-## Security
-This website has security measures in place to protect the loss, misuse, and alteration of the information under our control.
-
-## Contacting the website
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [contact us](mailto:{{site.email_contacts.functional}}).
+## Contact
+Si vous avez des questions concernant cette déclaration de confidentialité, les pratiques de ce site ou vos interactions avec celui-ci, vous pouvez nous contacter [contact us](mailto:{{site.email_contacts.functional}}).
