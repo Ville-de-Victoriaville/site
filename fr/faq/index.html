@@ -140,7 +140,7 @@ var translations = {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20241218181231">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20241218201208">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -189,7 +189,7 @@ layout-page
 <header role="banner" class="">
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light flex-wrap align-items-start">
-            <a class="navbar-brand" href="/site/fr/" id="home" aria-label="Aller à la page d'accueil" title="Aller à la page d'accueil">
+            <a class="navbar-brand" href="/site/" id="home" aria-label="Aller à la page d'accueil" title="Aller à la page d'accueil">
     <img src="/site/assets/img/SDG_logo.png" alt="Objectifs de développement durable - 17 objectifs pour transformer notre monde" />
 </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Afficher le menu de navigation">
@@ -198,22 +198,22 @@ layout-page
             <div class="d-flex flex-wrap w-100 justify-content-between">
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav" id="menu"><li class="nav-item ">
-    <a class="nav-link" href="/site/fr/">Accueil</a>
+    <a class="nav-link" href="/site/">Accueil</a>
 </li><li class="nav-item ">
-    <a class="nav-link" href="/site/fr/goals">Objectifs</a>
+    <a class="nav-link" href="/site/goals">Objectifs</a>
 </li><li class="nav-item ">
-    <a class="nav-link" href="/site/fr/reporting-status">Statut de rapport</a>
+    <a class="nav-link" href="/site/reporting-status">Statut de rapport</a>
 </li><li class="nav-item ">
-    <a class="nav-link" href="/site/fr/news">Mises à jour</a>
+    <a class="nav-link" href="/site/news">Mises à jour</a>
 </li><li class="nav-item ">
-    <a class="nav-link" href="/site/fr/faq">FAQ</a>
+    <a class="nav-link" href="/site/faq">FAQ</a>
 </li><li class="nav-item ">
-    <a class="nav-link" href="/site/fr/about">À propos</a>
+    <a class="nav-link" href="/site/about">À propos</a>
 </li></ul>
     
                 </div>
                 <div class="header-search-bar">
-                    <form class="align-self-lg-end" id="search" action="/site/fr/search/">
+                    <form class="align-self-lg-end" id="search" action="/site/search/">
     <div class="input-group">
         <label class="visually-hidden" for="indicator_search">Chercher</label>
         <input class="form-control" type="search" name="q" id="indicator_search" title="Chercher">
@@ -226,37 +226,7 @@ layout-page
 </form>
 
                 </div>
-                <div class="header-toggles d-flex">
-
-
-
-
-
-  <div class="language-toggle-container">
-  
-  <div class="btn-group language-toggle-dropdown  dropdown">
-    <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-      <i class="fa fa-globe"></i>
-      Français
-    </button>
-    <ul class="dropdown-menu"><li>
-            <a class="dropdown-item" href="/site/faq/">
-              English
-            </a>
-          </li></ul>
-  </div>
-</div>
-
-
-
-                    <span class="no-js-language-toggle"><div class="language-toggle-container d-flex">
-    <i class="fa fa-globe language-toggle-globe-links"></i>
-    <ul class="language-toggle-links list-unstyled list-inline"><li class="language-option-en list-inline-item">
-            <a class="language-toggle-link" href="/site/faq/">
-                English
-            </a>
-        </li></ul>
-</div></span><a title="Activer le contraste élevé" aria-label="Activer le contraste élevé"
+                <div class="header-toggles d-flex"><a title="Activer le contraste élevé" aria-label="Activer le contraste élevé"
     data-contrast-switch-to="" role="button" href="javascript:void(0)" data-on="click"
 data-event-category="Accessibility"
 data-event-action="Change contrast setting"
@@ -274,7 +244,7 @@ data-event-label="high"
     <nav>
     <ol aria-label="breadcrumb" class="breadcrumb" style="--bs-breadcrumb-divider: '&rsaquo;';">
         <li class="breadcrumb-item" >
-            <a href="/site/fr/">Accueil</a>
+            <a href="/site/">Accueil</a>
         </li>
         <li class="breadcrumb-item active">Foire aux questions (FAQ)</li>
     </ol>
@@ -357,7 +327,7 @@ Pour promouvoir l’engagement et l’action, les cinq objectifs fondamentaux su
                         </li>
                         
                         <li>
-                            <a href="/site/fr/contact-us">Contactez-nous</a>
+                            <a href="/site/contact-us">Contactez-nous</a>
                             
                         </li>
                         <li>
@@ -371,14 +341,14 @@ Pour promouvoir l’engagement et l’action, les cinq objectifs fondamentaux su
                             
                         </li>
                         <li>
-                            <a href="/site/fr/about/cookies-and-privacy/">Cookies</a>
+                            <a href="/site/about/cookies-and-privacy/">Cookies</a>
                             
                         </li>
                         
                         
                         
                         <li>
-                            <a href="/site/fr/config">Configuration</a>
+                            <a href="/site/config">Configuration</a>
                         </li>
                         </ul>
                 </div>
@@ -413,12 +383,12 @@ Pour promouvoir l’engagement et l’action, les cinq objectifs fondamentaux su
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Chercher';</script>
 
-<script src='/site/assets/js/sdg.js?v=20241218181231'></script>
+<script src='/site/assets/js/sdg.js?v=20241218201208'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20241218181231"></script><script>
+    <script src="/site/assets/js/custom.js?v=20241218201208"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
