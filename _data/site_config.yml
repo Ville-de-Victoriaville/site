@@ -79,21 +79,20 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: Bureau du développement durable
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      Le BDD guide les pratiques responsables, en cohérence avec les 17 ODD, tout en anticipant les 
+      tendances et en valorisant l’inclusion et la diversité pour renforcer la résilience communautaire.
     include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
+    button_label: En savoir plus
+    button_link: 'https://www.victoriaville.ca/nouvelle/202305/5007/creation-dun-bureau-du-developpement-durable---une-premiere-dans-le-monde-municipal-quebecois.aspx'
     rule_color: ''
-  - title: Nam vestibulum
+  - title: Ville de Victoriaville
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      Fièrement durable.
     include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
+    button_label: En savoir plus
+    button_link: 'https://www.victoriaville.ca'
     rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
