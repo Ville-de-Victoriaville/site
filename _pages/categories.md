@@ -1,8 +1,9 @@
 ---
 layout: categories
-language: en
+language: fr
 permalink: /categories/
-title: Categories
+title: Catégories
 ---
-## Posts by Category
-Here is a list of posts, grouped by category:
+## Produits connexes
+Cette page contient une séries de produits connexes aux ODD. Sélectionnez un post ou une catégorie pour y accéder.
+
