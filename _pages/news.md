@@ -1,9 +1,9 @@
 ---
 layout: news
-title: News & Events
-language: en
-permalink: /news/
+title: Nouvelles
+language: fr
+permalink: /fr/news/
 ---
 
-## News and Events
-Check this page for news regarding the reporting of our statistics for global indicators and opportunities to contribute to measuring achievement of the sustainable development goals
+## Nouvelles
+Consultez cette page pour des nouvelles concernant la publication de nos statistiques sur les indicateurs des ODD et les opportunités de contribuer à la mesure des progrès accomplis dans la réalisation des objectifs de développement durable.
